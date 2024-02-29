@@ -3,8 +3,9 @@ hellow
 hellow
 hellow
 hellow
-hellow
+ccccccccccccccc
+
 hellow
 hellow
 hellowq
-qqqqqqqw
+/usr/bin/bash: line 1: qw: command not found
